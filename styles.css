@@ -1,0 +1,44 @@
+body {
+	background-image: url("https://thumbs.dreamstime.com/b/laptop-black-screen-isolated-black-background-laptop-black-screen-isolated-black-background-d-illustr-106598224.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+header{
+	background-color: #111;
+}
+
+header nav ul{
+	padding:o;
+	margin:0;
+	overflow: right;
+}
+
+header nav ul li{
+	list-stle:none;
+	float:left;
+}
+
+header nav ul li a{
+	color:white;
+	padding:20px;
+	float:right;
+	font-size:14px;
+	text-decoration: none;
+
+}
+
+header nav ul li a:hover{
+	color:#aaa;
+}
+p{
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+	color:white;
+}
+
+
